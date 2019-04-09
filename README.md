@@ -36,3 +36,4 @@ NOTE: The Symbol Table will be stored in the file "sym_out.txt"
 
 
 PS: You must have bison and flex installed. Runs on Ubuntu. 
+PPS: Not a perfect parser(Errors like : Parse error if constructor has a modifier)
