@@ -1,0 +1,9 @@
+
+Hash |  ID Name                         |  ID Type   |  Size   |  Scope  |   Arg   |   Ret Type  |
+---------------------------------------------------------------------
+  1  |                            flag  |   boolean  |      0  |      L  |      0  |  			
+  4  |                           Prime  |     class  |      0  |      G  |      0  |  			
+  5  |                               i  |       int  |      4  |      L  |      0  |  			
+ 13  |                          System  |        if  |      4  |      L  |      0  |  			
+ 14  |                            args  |    String  |      0  |      L  |      0  |  			
+ 18  |                            main  |      FUNC  |      0  |      L  |      1  | void			
